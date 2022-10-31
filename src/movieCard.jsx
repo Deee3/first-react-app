@@ -19,4 +19,4 @@ const MovieCard = ({ movie }) => {
     );
 }
 
-export default MovieCard;
+export default MovieCard
